@@ -1,1 +1,5 @@
-Automation Testing
+Software Testing Training Summary
+In this free QA Course, you will learn basic skills and Software Testing concepts. Lessons are taught using REAL-LIFE Examples for improved learning. Refer the tutorials sequentially one after the other.
+
+What should I know?
+This online video tutorial is specially designed for beginners with little or no manual testing experience. But before you begin, refer this comprehensive guide on choosing QA as your career
