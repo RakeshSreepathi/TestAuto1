@@ -1,5 +1,5 @@
-Software Testing Training Summary
-In this free QA Course, you will learn basic skills and Software Testing concepts. Lessons are taught using REAL-LIFE Examples for improved learning. Refer the tutorials sequentially one after the other.
+Java Tutorial Summary
+This Java tutorial for beginners is taught in a practical GOAL-oriented way. It is recommended you practice the code assignments given after each core Java tutorial to learn Java from scratch. This Java programming for beginners course will help you learn basics of Java and advanced concepts.
 
-What should I know?
-This online video tutorial is specially designed for beginners with little or no manual testing experience. But before you begin, refer this comprehensive guide on choosing QA as your career
+What is Java?
+Java is a class-based object-oriented programming language for building web and desktop applications. It is the most popular programming language and the language of choice for Android programming.
